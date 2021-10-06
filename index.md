@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/LocmanMobile/paranoiaaccess/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LocmanMobile/paranoiaaccess/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div class="entry-content">
+<h1>Privacy Policy of Paranoia APP (FREE, PAID)</h1>
+<p>This Privacy Policy (ôPolicyö) applies to your use of the Locmanmobile applications on all platforms (the ôApplicationö or ôApplicationsö), the related services we provide (ôServicesö).</p>
+<p>Locmanmobile ( ôusö or ôweö) has created this Policy to explain our privacy practices and what information about you is collected, used and disclosed with respect to the Applications or Services.</p>
+<p>This Policy covers our collection, use and disclosure of your information through the Applications or Services. It does not cover any collection, use or disclosure by third parties through any applications, Web sites, products or services that we do not control or own. All trademarks, trade names, and logos used at the applications belong to their respective owners.</p>
+<p><strong>I. Information We Collect When You Download or Use our Apps</strong></p>
+<p><strong>1. Personal Information.</strong></p>
+<p>1.1. <strong>We do not collect any Personal Information</strong>. ôPersonal Informationö is information that identifies you or another person, which may be transmitted or received when you use an Application or Services. Personal Information includes your names, phone number, geographic location information, physical addresses, email addresses, fax, SSN, information stored within your Device and other information you transmit or receive using an Application or Service which identifies you or another person.</p>
+<p>2. <strong>Non-personal identification</strong>. We collect non-personal identification information about Users whenever they interact with our apps. We collect such information ONLY in our Network Connections for Android app in order to serve you better. Non-personal identification information may include the type of your phone and technical information about Users means of connection to our apps, such as the versions of phone model, version of Android OS and other similar information.</p>
+<p>2.1. <strong>Usage Data</strong>. ôUsage Dataö is information about the use of an Application and/or the Services, connection and service-related data submitted to our Analytics (Google Analytics) provider through your use of an Application, or the Site. Session and Usage Data includes information relating to the connection request and server communication. Session and Usage Data does not include any Personal Information nor does it include content you may transmit or share through the use of an Application (such as photos, contacts, calendar appointments, etc.) or the Services.</p>
+<p>2 <strong>Log Data</strong> When you interact with us or use an Application or Services, our app may collect your unique User Device number, the IP address, type of browser or operating system you use, and the dates and times of your use (ôLog Dataö).</p>
+<p><strong>II. USE OF COLLECTED INFORMATION</strong></p>
+<p>1. <strong>Personal Information</strong>û since <strong>we do not collect any Personal Information</strong>, we may not use your personal information in any way.<br>
+2. <strong>Non û Personal Information</strong>. We may use Non-Personal Information only to provide, maintain, improve and modify the Applications and Services and develop new services. Although this is information is collected by our analytic service (Google Analytics).</p>
+<p><strong>III. HOW YOUR INFORMATION MAY BE DISCLOSED</strong></p>
+<p>1.<strong> Personal Information</strong>û since <strong>we do not collect Personal Information</strong>, we do not disclose your personal information in any way.<br>
+2. <strong>Non-Personal Information</strong> û We do not disclose Non-Personal Information in any way.</p>
+<p><strong>IV. THIRD- PARTY LINKS WITHIN THE APP OR SITE</strong></p>
+<p>Since our apps are sold through Google Play, we may provide links to them in our web site and in our apps.<strong>Our apps donÆt carry third-party advertisements and/or Third Party Advertising SDKs (Free version can contain AdMob ad, specify the privacy policy of this service separately.)</strong>. We do not collect your information on and through and This Policy does not address, and we are not responsible for, the privacy practices of Web sites operated by third parties linked to our web site.</p>
+<p><strong>V. SENSITIVE INFORMATION</strong></p>
+<p>We never ask you to send us, or disclose, any sensitive Personal Information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, sexual orientation, criminal background or membership in past organizations, including trade union memberships) on or through an Application, the Services or the Site or otherwise to us.</p>
+<p><strong>VI. SECURITY</strong></p>
+<p>We at Locmanmobile are very concerned about the confidentiality of your information. Since we donÆt collect any personal information, we also donÆt store any personal or non-personal information on our servers. On top of that, we take all reasonable measures to protect the non-personal information collected in third party Google Analytics service from unauthorized access, use, and disclosure. However, no method of transmitting information over the Internet or storing information is completely secure.</p>
+<p><strong>VII. REPORTING VIOLATIONS</strong></p>
+<p>Should you have any questions or comments about this Policy or our privacy practices, or you want to report any violations of the Policy or abuse of an Application, the Services, please contact us at locmanmobile@gmail.com.</p>
+<p><strong>VIII. CHANGES TO THIS PRIVACY POLICY</strong></p>
+<p>We reserve the right, at our sole discretion, to change, modify or otherwise alter this Policy at any time. You can always check the latest version of our Privacy Policy at http://paranoia.locmanmobile.com/privacy.html. You must review this Policy on a regular basis to keep yourself apprised of any changes. If you do not agree to any modifications to this Policy, your sole recourse is to immediately stop all use of all Applications and Services. Your continued use of any Application, the Services following the posting of any modifications to this Policy will constitute your acceptance of the revised Policy.</p>
+ </div>
